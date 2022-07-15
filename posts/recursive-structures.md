@@ -15,5 +15,3 @@ Here are some interesting properties of recursive structures:
 - Understanding the base structure provides understanding of the whole structure.
 - The boundary/interface of the structure matches with itself.
 - You can look at any size of collection of parts and the structure is still the same.
-
-
