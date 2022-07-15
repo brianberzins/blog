@@ -13,3 +13,5 @@ Here's a list of some things that I think are necessary for healthy teams:
 - Ability to experiment, learn, and grown.
 - Dedicated individuals.
 - Treated like a single unit, rather than as a collection of individuals.
+
+Within organizations, teams can be [recursive structures](./recursive-structures.md), but frequently miss that this means how the team interacts up/down/with other teams need to be identical throughout the structure.
