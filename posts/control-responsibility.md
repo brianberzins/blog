@@ -5,9 +5,9 @@ There are several ways in which these can be mismatched:
 - Control gap: nobody has control
 - Responsibility gap: nobody is responsible
 - Control overlap: toe stepping, overruling, etc.
-- Responsibility overlap: finger pointing, blame
+- Responsibility overlap: finger pointing, [blame](./blamelessness.md)
 - Control without Responsibility: no skin in the game, low incentive/motivation
-- Responsibility without control: anxiety, micromanagement, blame
+- Responsibility without control: anxiety, micromanagement, [blame](./blamelessness.md)
 
 When we have both control and responsibility for something, we are empowered to take action.
 When we have responsibility but no control, we feel helpless and need others who have the control.
