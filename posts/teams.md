@@ -14,4 +14,8 @@ Here's a list of some things that I think are necessary for healthy teams:
 - Dedicated individuals.
 - Treated like a single unit, rather than as a collection of individuals.
 
-Within organizations, teams can be [recursive structures](./recursive-structures.md), but frequently miss that this means how the team interacts up/down/with other teams need to be identical throughout the structure.
+Within organizations, teams can be [recursive structures](./recursive-structures.md).
+In order for this structure to work, the interaction between teams need to operate the same way at all levels.
+An example is if each team is responsible for a [product or service](./products-services.md).
+Note that these structures are generally very flat, and do not consist of many layers of management.
+The layering of such teams comes from products/services being built on top of other products and services.
