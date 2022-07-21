@@ -6,6 +6,8 @@ This forces the ideas to be vocalized for everyone as the work is getting done.
 
 Here is a non-exhaustive list of benefits of mobbing:
 - Real time code reviews
+- Code conflict/merges don't happen
+- Style, formatting, and design discussions happen immediately
 - Shared context/shared knowledge
 - Get the best of everyone combined
 - Nobody is ever left behind
