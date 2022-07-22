@@ -10,6 +10,7 @@ function rund() {
     --volume="/etc/group:/etc/group:ro" \
     --volume="/etc/passwd:/etc/passwd:ro" \
     --volume="/etc/shadow:/etc/shadow:ro" \
+    --volume="/home/$USER/.gitconfig:/home/$USER/.gitconfig" \
     --volume "$PWD":/home/$USER/$(basename "$PWD") \
     $1
 }
