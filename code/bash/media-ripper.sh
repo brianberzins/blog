@@ -1,3 +1,5 @@
+# Uses docker and a USB blueray reader to rip media to a shared storage location.
+# Credit to rix1337 for having a container with all the tools already made!
 function ripper() {
   docker run \
     --privileged \
