@@ -19,3 +19,11 @@ In order for this structure to work, the interaction between teams need to opera
 An example is if each team is responsible for a [product or service](./products-services.md).
 Note that these structures are generally very flat, and do not consist of many layers of management.
 The layering of such teams comes from products/services being built on top of other products and services.
+
+Does your team have matching [control and responsibility](./control-responsibility.md)?
+This is something that I see many teams struggle with because it requires action from outside the team.
+If the team has control to make control and responsibility align, then they can self correct.
+If the team doesn't have that control, then that control is outside the team.
+Interestingly, I have rarely seen a manager in a position to change this either.
+This is probably because to make changes to a team, you actually need to change multiple teams.
+Such obstacles make it difficult to organize teams effectively. 
