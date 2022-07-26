@@ -15,3 +15,7 @@ Here are some interesting properties of recursive structures:
 - Understanding the base structure provides understanding of the whole structure.
 - The boundary/interface of the structure matches with itself.
 - You can look at any size of collection of parts and the structure is still the same.
+
+[Teams](./teams.md) can be recursive structures in at least two ways.
+They can be recursive in that they are a hierarchical, or in the ways that they interact with other teams.
+I have seen nothing good from the former, but latter is incredibly powerful.
