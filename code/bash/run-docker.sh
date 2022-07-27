@@ -20,3 +20,15 @@ function rund() {
     "$@"
 }
 
+function rund-root() {
+  docker run \
+    --interactive \
+    --tty \
+    --user root \
+    --volume "$PWD":/workdir/$(basename "$PWD") \
+    --workdir /workdir/$(basename "$PWD") \
+    --entrypoint /bin/bash \
+    "$@"
+}
+
+
