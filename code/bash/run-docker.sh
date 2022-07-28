@@ -20,6 +20,10 @@ function rund() {
     "$@"
 }
 
+# Usage: rund-root <container-image>
+# Runs the specified container image as root, with the current directory mounted into the container.
+# Running as root is more convenient if you want to install additional software into the container.
+# Note that files created/modified from inside the container will be owned by the root user.
 function rund-root() {
   docker run \
     --interactive \
