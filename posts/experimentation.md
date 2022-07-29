@@ -10,3 +10,8 @@ Experimentation encourages multiple approaches.
 Anecdotally, if you try more than one approach, you think of even more approaches/questions.
 This exploration results in more ideas and the final agreed upon solution is often not one of the first ideas.
 Through intention exploration of multiple approaches, I find more elegant and sustainable solutions.
+
+Experimentation also results in throwing away a lot of ideas.
+This is something that should be celebrated, as we always use the best ideas for each situation.
+Even if something works, seriously consider trying ever more ideas.
+The best idea is rarely the one we think of first.
