@@ -19,3 +19,5 @@ As a mental exercise, imagine the set of all things that you are responsible for
 Then, as independently as possible, imagine the set of all things you can change without other teams?
 How close are those two sets to being the same?
 
+Being blocked is an indication that you have mismatched control and responsibility.
+Specifically, it indicates that you are being tasked with getting something done but do not have control.
