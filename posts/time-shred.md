@@ -8,3 +8,8 @@ Some indicators that you have time shred:
 - You are supposed to dedicate some of your time to different projects.
 - You have work that is currently blocked.
 
+The opposite of time shred is dedicated time directly working on a single priority item.
+Note that having zero time shred is not possible, people need sleep, food, breaks, etc.
+The more time shred you have, the less you are capable of getting things done.
+More work in progress, means delays in getting priority items to completion.
+More interruptions and context switches means less time getting priority items done.
